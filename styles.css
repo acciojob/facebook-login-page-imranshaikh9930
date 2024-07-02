@@ -7,14 +7,14 @@
 	width:100vw;
 }
 
-.logo{
+.left{
 	display:flex;
 	flex-direction:column;
 	justify-content:center;
 	align-items:center;
 }
 
-.logo img{
+.left img{
 	width:200px;
 }
 
